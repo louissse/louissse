@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning design and how to draw. I'm also brushing up on all things Frontend through [Frontend Masters](https://frontendmasters.com/).  
 - 💬 Ask me about teaching programming and effective ways of learning something new
 
+<h3> Languages and tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,ps,)](https://skillicons.dev)
   <!--
 **louissse/louissse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
