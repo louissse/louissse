@@ -9,6 +9,7 @@
 <h3> Languages and tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,ps,)](https://skillicons.dev)
+p5js, p5play, ml5js
   <!--
 **louissse/louissse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
