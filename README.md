@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my portfolio and getting hands on experience with some JavaScript frameworks.
 - 🌱 I’m currently learning design and how to draw. I'm also brushing up on all things Frontend through [Frontend Masters](https://frontendmasters.com/).  
-- 💬 Ask me about teaching programming and effective ways of learning something new
+- 💬 Ask me about teaching programming and effective ways of learning something new. You're also welcome to ask me about anything relating to project management.  
 
 <h3> Languages and tools:</h3>
 
