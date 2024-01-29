@@ -8,7 +8,7 @@
 
 <h3> Languages and tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,figma,ps,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,figma,ps,netlify)](https://skillicons.dev)
 
 p5js, p5play, ml5js
 
