@@ -2,7 +2,7 @@
 
 <h3 align="center"> Frontend Developer and Educator </h3>
 
-- 🔭 I’m currently **working on** my portfolio and getting hands on experience with some JavaScript frameworks. 
+- 🔭 I’m currently **working on** freelance projects. Mostly content-driven websites with the great Astro framework and Sanity as CMS where needed.   
 - 🌱 I’m currently **learning** design, how to draw and how to play the guitar. I'm also brushing up on all things Frontend through [Frontend Masters](https://frontendmasters.com/).  
 - 💬 **Ask me about** teaching programming and effective ways of learning something new. 
 <h3> Languages and tools:</h3>
